@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pennyhn
+- 🌱 I’m currently learning how to use lists in python
+- 📫 How to reach me: pennyhn@varmdogymnasium.se
